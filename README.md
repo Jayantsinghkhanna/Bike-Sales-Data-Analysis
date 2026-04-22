@@ -1,8 +1,11 @@
 # 🚲 Bike Sales Data Analysis - Excel Dashboard
 
 ## 📌 Project Overview
-(BikeSales.png)
 This project focuses on analyzing the demographic and financial factors that influence customer decisions to purchase a bike. An end-to-end data analysis pipeline was executed using **Microsoft Excel**, moving from raw, messy data to a clean, interactive dashboard. The dashboard provides actionable insights into high-conversion customer profiles, enabling data-driven marketing and sales strategies.
+
+## 📸 Dashboard Preview
+
+![Dashboard](BikeSales.png)
 
 ## 🛠️ Tools Used
 * **Microsoft Excel**: Data Cleaning, Data Transformation, Pivot Tables, Pivot Charts, Slicers, and Interactive Dashboard Design.
